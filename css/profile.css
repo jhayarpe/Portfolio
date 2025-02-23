@@ -1,0 +1,105 @@
+/* footer
+{
+    text-align: center;
+    padding: 5px;
+    background-color:#abbaba;
+    color: black;
+} */
+
+div > .profile-image{
+    border-radius: 50%;
+    border: 5px solid #5C7285;
+}
+
+.last-name{
+    color: #5C7285;
+}
+
+.links > a > img{
+    margin-right: 10px;
+}
+
+.container{
+    font-family: "century schoolbook", sans-serif;
+}
+
+.school-year{
+    color: #5C7285;
+}
+
+.con-circle{
+    width: 5px;
+    bottom: 75%;
+    right: 18%;
+}
+
+.con-circle1{
+    width: 5px;
+    top: 10%;
+    right: 10%;
+}
+
+.con-circle2{
+    width: 5px;
+    top: 20%;
+    right: 8%;
+}
+
+.row-circle{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #818C78;
+}
+
+.row-circle1{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #A7B49E;
+}
+
+.row-circle2{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #E2E0C8;
+}
+
+.nickname{
+    color: #5C7285;
+}
+
+.age{
+    color: #5C7285;
+}
+
+.birthdate{
+    color: #5C7285;
+}
+
+.religion{
+    color: #5C7285;
+}
+
+.ethnicity{
+    color: #5C7285;
+}
+
+.status{
+    color: #5C7285;
+}
+
+.carousel-container{
+    border: 2px solid #5C7285;
+}
+
+.carousel-container h2{
+    color: black;
+}
+
+.card-cover{
+    background-size: cover;
+    background-position: center;
+}
+
+.games{
+    text-align: center;
+}
