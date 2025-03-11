@@ -1,0 +1,120 @@
+
+div > .profile-image{
+    border-radius: 50%;
+    border: 5px solid #5C7285;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.last-name{
+    color: #5C7285;
+}
+
+.links > a > img{
+    margin-right: 10px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.container{
+    font-family: "century schoolbook", sans-serif;
+}
+
+.school-year{
+    color: #5C7285;
+}
+
+.con-circle{
+    width: 5px;
+    bottom: 60%;
+    right: 18%;
+}
+
+.con-circle1{
+    width: 5px;
+    top: 25%;
+    right: 10%;
+}
+
+.con-circle2{
+    width: 5px;
+    top: 35%;
+    right: 8%;
+}
+
+.row-circle{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #818C78;
+}
+
+.row-circle1{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #A7B49E;
+}
+
+.row-circle2{
+    border-radius: 50%;
+    margin: 0;
+    background-color: #E2E0C8;
+}
+
+
+.carousel-container h2{
+    color: black;
+}
+
+.card-cover{
+    background-size: cover;
+    background-position: center;
+}
+
+.games{
+    text-align: center;
+}
+
+.header-menu{
+    position: sticky;
+    top: 0;
+}
+
+.mini{
+    visibility: hidden;
+    transition: 0.5s;
+}
+
+.card h3{
+    visibility: visible;
+}
+
+.card:hover h3{
+    visibility: hidden;
+}
+
+.card:hover .mini{
+    visibility: visible;
+    transform: scale(1.1);
+}
+
+.card{
+    transition: 1s;
+}
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.image-footer{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
